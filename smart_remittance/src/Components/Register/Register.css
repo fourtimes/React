@@ -1,0 +1,159 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.row {
+  width: 100%;
+  overflow: hidden;
+}
+.login_page {
+  margin: 0px;
+  padding: 0;
+  margin-left: auto;
+}
+.welcome_message {
+  background-color: #060668;
+  padding-bottom: 350px;
+  color: white;
+}
+.welcome_message img {
+  font-weight: bold;
+  padding: 20px 20px;
+  width: 190px;
+}
+.mount_logo img {
+  float: right;
+  margin-left: 50px;
+}
+.welcome_message h5 {
+  padding: 0 30px;
+  font-weight: bold;
+  font-size: 35px;
+}
+.welcome_message p {
+  padding: 10px 30px;
+}
+.learn {
+  color: #4cd3fe;
+  padding: 10px 30px;
+}
+/* registration */
+.register_form {
+  padding: 20px 5px 0 100px;
+}
+h4 {
+  padding-bottom: 40px;
+}
+.remove_icon {
+  padding-top: 15px;
+  margin-right: 0px;
+}
+/* .remove_icon i {
+  margin-left: 200px;
+  font-size: 15px;
+  cursor: pointer;
+} */
+.number {
+  /* margin-right: 0; */
+  /* margin-left: 0; */
+  background: #1230c2 !important;
+  color: #fff;
+  font-family: Gilroy-Bold;
+  font-size: 12px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  position: relative;
+  box-sizing: border-box;
+  margin-left: 20px;
+  text-align: center;
+}
+.number span {
+  text-align: center;
+}
+.authentication {
+  font-size: 8px;
+  color: #060668;
+  font-weight: 600;
+  width: 80px;
+  padding-top: 20px;
+  text-align: center;
+}
+.reg_details {
+  align-items: center;
+  /* width: 1; */
+  display: inline-block;
+}
+
+/* hr{
+  width: 100px;
+  color:#060668;  
+  top: 10px;
+  display: inline-block;
+} */
+.choose_your_country {
+  padding: 30px 0 20px 0;
+  color: black;
+}
+
+.choose_your_country input {
+  width: 400px;
+  padding: 15px;
+  border: 1px solid lightgray;
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14),
+    0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 10px;
+}
+.aus_logo {
+  margin-top: -30px;
+  margin-bottom: 20px;
+  margin-left: 325px;
+}
+.aus_logo img {
+  width: 15px;
+  height: 10px;
+}
+.email input {
+  width: 400px;
+  /* padding: 10px; */
+}
+.email label {
+  font-weight:100;
+  font-size: 14px;
+}
+.email label span{
+  color: red;
+  font-size: 10px;
+}
+.email img {
+  width: 15px;
+  height: 10px;
+}
+.verify{
+  margin-top: -15px;
+  margin-left: 325px;
+}
+.verify button{
+  padding: 5px 20px;
+  border-radius: 25px;
+  color:#1230c2;
+  border: 1px solid #1230c2;
+  background-color: #fff;
+}
+.btn {
+  margin-top: 60px;
+  margin: 20px;
+  width: 350px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 13px;
+  background: #0e7fff !important;
+  color: #fff !important;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.16) !important;
+}
+.another_login ul{
+  margin-left: 170px;
+  font-size:10px;
+}
